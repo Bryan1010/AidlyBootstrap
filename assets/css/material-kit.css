@@ -16,6 +16,24 @@
 /*     brand Colors              */
 
 
+
+
+.title{
+  color:white;
+}
+
+#signup{
+  background-color:white;
+  color:teal;
+}
+#login{
+  background-color:white;
+  color:teal;
+}
+
+#home{
+  color:teal;
+}
 h1.title{
   color:grey;
 }
@@ -17331,7 +17349,7 @@ footer .pull-center {
 }
 
 .index-page .brand {
-  color: #fff;
+  color: grey;
   text-align: center;
 }
 
@@ -17640,7 +17658,7 @@ footer .pull-center {
   .navbar.navbar-transparent .navbar-toggler .navbar-toggler-icon {
     background-color: #fff;
   }
-  #bodyClick {
+  #body {
     height: 100%;
     width: 100%;
     position: fixed;
